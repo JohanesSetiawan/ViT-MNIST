@@ -6,9 +6,9 @@ Vision Transformers is a new architecture for image classification. It is based 
 
 | name_model          | BATCH_SIZE | NUM_HEADS | HIDDEN_DIM | NUM_ENCODERS | EPOCHS |
 | ------------------- | ---------- | --------- | ---------- | ------------ | ------ |
-| trained_model_0.pth | 16         | 16        | 1024       | 16           | 150    |
+| trained_model_2.pth | 16         | 16        | 1024       | 16           | 150    |
 | trained_model_1.pth | 32         | 16        | 768        | 8            | 100    |
-| trained_model_2.pth | 512        | 8         | 768        | 4            | 60     |
+| trained_model_0.pth | 512        | 8         | 768        | 4            | 60     |
 
 you can see the graph training and validation (loss & accuracy) in the following [here](https://wandb.ai/111202113467/vit-mnist?workspace=user-111202113467), and you can download the trained models from [here](https://drive.google.com/drive/folders/1ei8lHBsBOWgu8jaBaXnjaI0q_xMOJszK?usp=sharing).
 
